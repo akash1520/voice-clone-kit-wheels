@@ -1,6 +1,6 @@
-# Voice Clone Kit wheels
+# Voxlet wheels
 
-The Voice Clone Kit Mac app downloads these two prebuilt Python wheels when it installs its optional training engine (GPT-SoVITS). With them, the app doesn't have to compile the packages on each Mac, which would need Apple's Command Line Tools.
+The [Voxlet](https://voxlet-app.vercel.app) Mac app (formerly Voice Clone Kit) downloads these two prebuilt Python wheels when it installs its optional training engine (GPT-SoVITS). With them, the app doesn't have to compile the packages on each Mac, which would need Apple's Command Line Tools.
 
 This repository holds only these build outputs. The app's source isn't here.
 
